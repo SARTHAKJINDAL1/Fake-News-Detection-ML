@@ -1,5 +1,5 @@
 # Fake-News-Detection-ML
-Machine Learning project to detect fake news
+Machine Learning project to detect fake news.
 
 # 📰 Fake News Detection using Machine Learning
 
