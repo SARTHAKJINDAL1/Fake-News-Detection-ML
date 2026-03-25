@@ -40,7 +40,7 @@ With the rapid spread of misinformation online, it has become difficult to ident
 ---
 
 ## 📁 Dataset
-The dataset is too large to upload on GitHub.
+The dataset is too large to upload on GitHub. so i have provided the link below to download the dataset and also attached zipped files of dataset.
 
 👉 Download from:
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
